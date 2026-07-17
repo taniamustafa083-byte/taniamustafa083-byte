@@ -1,5 +1,5 @@
 # 💫 About Me:
-RNA-seq analysis (GEO datasets like GSE183947)<br>Open-source bioinformatics tools<br>Advanced R/Bioconductor packages<br>R (tidyverse, Bioconductor)<br>FASTA/FASTQ handling & Basic genomics workflows<br>I once spent 3 hours fixing a bug that was just a missing slash.”
+RNA-seq analysis<br>Open-source bioinformatics tools<br>Advanced R/Bioconductor packages<br>R (tidyverse, Bioconductor)<br>FASTA/FASTQ handling & Basic genomics workflows<br>Meta-analysis of rnaseq <br>I once spent 3 hours fixing a bug that was just a missing slash.”
 
 
 ## 🌐 Socials:
